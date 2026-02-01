@@ -1,5 +1,7 @@
 # Agent Skills
 
+English | [한국어](README.ko.md)
+
 Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform specific tasks. Write once, use everywhere.
 
 This repository contains prompt templates we've been using internally, now packaged as skills and open-sourced for the community.
