@@ -2,7 +2,7 @@
 
 Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform specific tasks. Write once, use everywhere.
 
-This repository contains skills that our team uses internally, now open-sourced for the community.
+This repository contains prompt templates we've been using internally, now packaged as skills and open-sourced for the community.
 
 ## About Agent Skills
 
