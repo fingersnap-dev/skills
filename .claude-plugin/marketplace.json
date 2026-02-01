@@ -1,0 +1,20 @@
+{
+  "name": "fingersnap-skills",
+  "owner": {
+    "name": "FingerSnap"
+  },
+  "metadata": {
+    "description": "Agent Skills by FingerSnap - open-source skills for AI coding agents",
+    "pluginRoot": "./skills"
+  },
+  "plugins": [
+    {
+      "name": "git-commit-message",
+      "source": "./git-commit-message",
+      "description": "Analyze uncommitted changes and suggest English commit messages in Conventional Commits format",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["git", "commit", "conventional-commits"]
+    }
+  ]
+}

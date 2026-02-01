@@ -1,0 +1,5 @@
+{
+  "name": "git-commit-message",
+  "description": "Analyze uncommitted changes and suggest English commit messages in Conventional Commits format",
+  "version": "1.0.0"
+}
