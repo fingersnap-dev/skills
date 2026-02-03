@@ -18,6 +18,7 @@ Learn more about the Agent Skills standard at [agentskills.io](https://agentskil
 |-------|-------------|
 | [git-commit-message](skills/git-commit-message) | Analyze uncommitted changes and suggest English commit messages in Conventional Commits format |
 | [internal-context-setup](skills/internal-context-setup) | Design and scaffold the internal-context/ folder structure for repository internal knowledge |
+| [wow-resume](skills/wow-resume) | Analyze codebase and Git commit history to discover quantifiable technical achievements for resume writing |
 
 ## Installation
 

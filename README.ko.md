@@ -18,6 +18,7 @@ Agent Skills 표준에 대해 더 알아보기: [agentskills.io](https://agentsk
 |------|------|
 | [git-commit-message](skills/git-commit-message) | 커밋되지 않은 변경 사항을 분석하고 Conventional Commits 형식의 영어 커밋 메시지를 제안합니다 |
 | [internal-context-setup](skills/internal-context-setup) | AI 에이전트가 레포지토리를 빠르게 이해할 수 있도록 internal-context/ 폴더 구조를 설계하고 스케폴딩합니다 |
+| [wow-resume](skills/wow-resume) | 코드베이스와 Git 커밋 히스토리를 분석해 이력서에 작성할 수 있는 수치화된 기술적 성취를 발굴합니다 |
 
 ## 설치 방법
 

@@ -1,0 +1,5 @@
+{
+  "name": "wow-resume",
+  "description": "Analyze codebase and Git commit history to discover quantifiable technical achievements for resume writing",
+  "version": "1.0.0"
+}

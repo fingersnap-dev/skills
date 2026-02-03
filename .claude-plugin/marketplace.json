@@ -23,6 +23,14 @@
       "version": "1.0.0",
       "license": "MIT",
       "keywords": ["documentation", "context", "architecture", "onboarding"]
+    },
+    {
+      "name": "wow-resume",
+      "source": "./wow-resume",
+      "description": "Analyze codebase and Git commit history to discover quantifiable technical achievements for resume writing",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["resume", "portfolio", "career", "achievements", "git-history"]
     }
   ]
 }
