@@ -25,6 +25,14 @@
       "keywords": ["documentation", "context", "architecture", "onboarding"]
     },
     {
+      "name": "wow-interview",
+      "source": "./wow-interview",
+      "description": "Analyze a codebase and Git history to generate likely interview questions and model answers grounded in the repository",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["interview", "prep", "questions", "answers", "codebase"]
+    },
+    {
       "name": "wow-resume",
       "source": "./wow-resume",
       "description": "Analyze codebase and Git commit history to discover quantifiable technical achievements for resume writing",

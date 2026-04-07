@@ -1,0 +1,5 @@
+{
+  "name": "wow-interview",
+  "description": "Analyze a codebase and Git history to generate likely interview questions and model answers grounded in the repository",
+  "version": "1.0.0"
+}
